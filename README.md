@@ -1,2 +1,0 @@
-# sushmitha
-flight finder navigator
